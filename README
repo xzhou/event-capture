@@ -1,3 +1,3 @@
-event-capture
+event-capture attack
 
-Android input event capture and replay tool
+Android input event capture and replay tool. On some android devices, the input /dev devices are not protected and thus a malicious user can inject events to the system. 
